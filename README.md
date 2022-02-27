@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Mout’s Soluções em TI
 - 🌱 I’m currently learning CI/CD Azure Devops
-- 🤔 I’m looking for help with C# .Net Core
+- 🤔 I’m working with C# .Net Core
 - 💬 Ask me about software development
 - 📫 How to reach me: fabriciomaster55@gmail.com
 
