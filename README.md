@@ -2,7 +2,7 @@
 ### Hi! My name is Fabricio Gomes Santos.  
 
 - 🔭 I’m currently working on Oxignet Technologies
-- 🌱 I’m currently learning Mochine Learning and Data science
+- 🌱 I’m currently learning Machine Learning and Data science
 - 🤔 I’m working with C# .Net Core
 - 💬 Ask me about software development
 - 📫 How to reach me: fabriciomaster55@gmail.com
